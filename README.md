@@ -7,5 +7,5 @@ A WIP HLSL shader designed for Unity that does toon-style lighting supporting sh
 - Outlines (potentially as a post-process or render feature)
 
 <p align="center">
-  <img src="examples/toonWIP.png" alt="Engine Screenshot" width="1000">
+  <img src="examples/toonPrototype.png" alt="Engine Screenshot" width="1000">
 </p>
